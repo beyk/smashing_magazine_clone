@@ -250,7 +250,11 @@ source {
 .footer__topics__item a {
     text-decoration: none;
     color: black;
+    padding: auto 1rem;
+
 }
+
+
 
 .barista-again h2 a {
     font-size: 2.5rem;
@@ -762,9 +766,20 @@ label {
     color: #fff;
 }
 
+/*
+.justify-content2 {
+    justify-content: space-around;
+    margin-right: 2rem;
+}
+*/
+
 .footer__topics__item {
-    margin: auto 1rem;
-    font-size: 1.5rem;
+/*    flex: 1 1 500px;*/
+/*    width: 100%;*/
+    /*    justify-content: space-between;*/
+    /*    margin: auto 5rem;*/
+    /*    text-align: center;*/
+    font-size: 1.3rem;
     color: #fff;
 }
 
@@ -789,6 +804,6 @@ label {
 }
 
 .footer__topics__list1 ul li {
-    flex: 1 1 auto;
+    flex: 1 1 5rem;
     text-align: center;
 }

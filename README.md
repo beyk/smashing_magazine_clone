@@ -26,8 +26,7 @@ This is an assigned project where we were supposed to replicate/clone smashingma
 - Fontawesome icons (https://fontawesome.com/)
 ​
 ## Live Demo of our project
-​
-​
+​<a href="https://raw.githack.com/beyk/smashing_magazine_clone/f/index.html">click here</a>
 ## Authors
 ​
 👤 **Anand Kumar**

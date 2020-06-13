@@ -9,15 +9,15 @@ This is an assigned project where we were supposed to replicate/clone smashingma
 
 ### Top of the webpage
 ​
-![screenshot 1](/home/kumar/Desktop/microverse-project/smashing-magazine/smashing_magazine_clone/images/u.png)
+![screenshot 1](/images/u.png)
 
 ### Middle of the webpage
 
-![screenshot 2](/home/kumar/Desktop/microverse-project/smashing-magazine/smashing_magazine_clone/images/m.png)
+![screenshot 2](/images/m.png)
 
 ### Bottom of the webpage
 
-![screenshot 3](/home/kumar/Desktop/microverse-project/smashing-magazine/smashing_magazine_clone/images/l.png)
+![screenshot 3](/images/l.png)
 ​
 ## Built With
 - HTML5

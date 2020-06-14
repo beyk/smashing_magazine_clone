@@ -2,7 +2,6 @@ body {
   font-size: 1.125em;
   background-color: #f6f3f2;
   width: 100%;
-  overflow-x: hidden;
   font-family: "Piedra", cursive;
 }
 
@@ -763,23 +762,11 @@ label {
   color: #fff;
 }
 
-/*
 .justify-content2 {
-    justify-content: space-around;
-    margin-right: 2rem;
+  justify-content: flex-end;
 }
-*/
 
 .footer__topics__item {
-  /*    flex: 1 1 500px; */
-
-  /*    width: 100%; */
-
-  /*    justify-content: space-between; */
-
-  /*    margin: auto 5rem; */
-
-  /*    text-align: center; */
   font-size: 1.3rem;
   color: #fff;
 }
@@ -796,12 +783,13 @@ label {
 }
 
 .footer__links {
-  float: left;
+  width: 50%;
 }
 
 .laptop {
-  width: 15%;
-  margin-left: -10rem;
+  width: 5%;
+  margin-left: 25%;
+  border: 5px ridge grey;
 }
 
 .footer__topics__list1 ul li {

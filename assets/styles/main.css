@@ -635,7 +635,6 @@ article {
   grid-template-columns: repeat(4, 1fr);
   grid-template-rows: 20px 50px 200px 110px;
   background-color: #c4c3c0;
-  background-color: ;
   margin-top: 2rem;
   padding-left: 0.5rem;
 }

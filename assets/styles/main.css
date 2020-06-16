@@ -762,7 +762,7 @@ label {
 }
 
 .justify-content2 {
-  justify-content: flex-end;
+  justify-content: space-evenly;
 }
 
 .footer__topics__item {
@@ -782,16 +782,37 @@ label {
 }
 
 .footer__links {
-  width: 50%;
+  width: 60%;
+}
+
+.align-items2 {
+  align-items: center;
 }
 
 .laptop {
   width: 5%;
-  margin-left: 25%;
+  margin-left: 15%;
   border: 5px ridge grey;
 }
 
-.footer__topics__list1 ul li {
-  flex: 1 1 5rem;
-  text-align: center;
+.laptop1 {
+  border: 5px ridge grey;
+  width: 5%;
+  margin-right: 15%;
+}
+
+.width {
+  width: inherit;
+}
+
+.p {
+  order: 1;
+}
+
+.q {
+  order: 3;
+}
+
+.r {
+  order: 2;
 }

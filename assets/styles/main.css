@@ -672,9 +672,18 @@ div p:first-child {
   font-size: 2rem;
 }
 
-.footer__topics__list1 li {
-  margin: auto 1.5rem;
+.footer__topics__list1 {
+  display: inline-block;
+  text-align: center;
+  position: relative;
+}
+
+.footer__topics__item {
+  position: relative;
+  display: inline;
+  margin: auto 1.4rem;
   color: #fff;
+  font-size: 1.3rem;
 }
 
 .list > ul li {
@@ -765,11 +774,6 @@ label {
   justify-content: space-evenly;
 }
 
-.footer__topics__item {
-  font-size: 1.3rem;
-  color: #fff;
-}
-
 .footer__notes {
   margin-top: 3rem;
   text-align: center;
@@ -781,8 +785,10 @@ label {
   color: #fff;
 }
 
-.footer__links {
-  width: 60%;
+.fa-circle {
+  font-size: 0.8rem;
+  text-align: center;
+  padding-bottom: 0.3rem;
 }
 
 .align-items2 {
